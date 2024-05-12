@@ -6,3 +6,4 @@ torch
 scikit-learn
 scipy
 tqdm
+torchmetrics
