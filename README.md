@@ -47,10 +47,6 @@ Note: The dataset files are not included in this repository due to their large s
 
 Contributions to this repository are welcome. If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgments
 
 I would like to thank NTNU Helse for creating and providing the HARTH dataset, which made this research possible.
